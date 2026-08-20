@@ -62,6 +62,7 @@ Whatever the label, the underlying question is the same: when a real buyer asks 
 
 This is the core commercial category — dashboards that run prompts against multiple AI engines, then report on brand mentions, citation frequency, competitive share, and sentiment. Evaluate on: engine coverage, how the score is calculated (and whether that's disclosed), and whether it connects to an actual content or PR workflow rather than just reporting a number.
 
+- [AdMapix](https://www.admapix.com/) — Competitor ad-creative intelligence and mobile-app market research for benchmarking messaging and market presence alongside AI-visibility work.
 - [Profound](https://www.tryprofound.com/) — Enterprise-focused AI-visibility analytics with detailed publisher-partnership research.
 - [Scrunch](https://scrunch.com/) — Monitoring, auditing, and content-delivery in one platform.
 - [Otterly.AI](https://otterly.ai/) — Straightforward visibility tracking aimed at small and mid-size teams.
