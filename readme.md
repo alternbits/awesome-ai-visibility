@@ -74,6 +74,7 @@ This is the core commercial category — dashboards that run prompts against mul
 
 ### Open-Source Tools
 
+- [**aivis**](https://github.com/krisdiallo/ecom-agent) — Free, zero-dependency CLI and MCP server that checks whether AI crawlers can read an ecommerce store at all: robots.txt AI-crawler classification (165 tokens, vendor-sourced, split by what blocking costs — answers vs. training), and product-page structured data in raw HTML rather than the rendered DOM. Includes open datasets: a 70-brand visibility survey and a 165-crawler consequence registry. The mechanical complement to prompt-based trackers — it checks the floor that decides whether there's anything to track.
 - [**Elmo**](https://github.com/elmohq/elmo) — Self-hosted, MIT-licensed AI-visibility tracker. Runs prompts against ChatGPT, Claude, Perplexity, Gemini, Copilot, and Google AI Overviews via your own API keys, so your prompt history and results stay on your own infrastructure — a transparent, auditable alternative to closed dashboards.
 - [**geo-aeo-tracker**](https://github.com/danishashko/geo-aeo-tracker) — Local-first, Next.js-based AI-visibility dashboard tracking six AI models via scraping APIs, with a built-in site-audit crawler.
 - [**AI Visibility topic page on GitHub**](https://github.com/topics/ai-visibility) — Browse the `ai-visibility` topic directly for the newest self-hosted trackers and citation-testing CLIs — this is a young, fast-moving corner of open source.
