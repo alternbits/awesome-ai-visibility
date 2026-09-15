@@ -76,6 +76,7 @@ This is the core commercial category — dashboards that run prompts against mul
 
 - [**Elmo**](https://github.com/elmohq/elmo) — Self-hosted, MIT-licensed AI-visibility tracker. Runs prompts against ChatGPT, Claude, Perplexity, Gemini, Copilot, and Google AI Overviews via your own API keys, so your prompt history and results stay on your own infrastructure — a transparent, auditable alternative to closed dashboards.
 - [**geo-aeo-tracker**](https://github.com/danishashko/geo-aeo-tracker) — Local-first, Next.js-based AI-visibility dashboard tracking six AI models via scraping APIs, with a built-in site-audit crawler.
+- [**openllmrank**](https://github.com/foodaka/openllmrank) — MIT-licensed CLI that queries the grounded OpenAI, Anthropic, Gemini, Perplexity, and xAI APIs with your own keys and produces a per-prompt gap report of where named competitors are cited and your brand is not, storing every run in local SQLite.
 - [**AI Visibility topic page on GitHub**](https://github.com/topics/ai-visibility) — Browse the `ai-visibility` topic directly for the newest self-hosted trackers and citation-testing CLIs — this is a young, fast-moving corner of open source.
 
 ## Measurement Methodology
