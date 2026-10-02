@@ -71,6 +71,7 @@ This is the core commercial category — dashboards that run prompts against mul
 - [Brandi AI](https://mybrandi.ai/) — Combines AI-visibility intelligence with competitive benchmarking and sentiment analysis, aimed at marketing and PR teams.
 - [Highwire AI Index](https://www.teamhighwire.com/insights/highwire-launches-ai-index-to-measure-brand-presence-in-generative-ai-platforms) — A communications-first visibility index built for corporate-reputation and comms teams rather than pure SEO/content teams.
 - [Conductor](https://www.conductor.com/) / [Nightwatch](https://nightwatch.io/) / [SE Ranking](https://seranking.com/) — Established SEO platforms that have added AI-citation tracking modules.
+- [LogNorm](https://lognorm.com/) — AI-visibility tracking across ChatGPT, Gemini and Google AI Overviews, plus a GEO audit, with an MCP server so coding agents can ship the fixes.
 
 ### Open-Source Tools
 
