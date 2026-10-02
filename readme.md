@@ -51,6 +51,7 @@ Whatever the label, the underlying question is the same: when a real buyer asks 
 
 ## Guides & Explainers
 
+- [AI Visibility Factors](https://www.aivisibilityfactors.com/) — Evidence-based catalog of AI visibility factors with separate impact, proof, and consensus assessments and linked sources.
 - [Search Engine Land — AI search & visibility coverage](https://searchengineland.com/) — Ongoing trade-press coverage of how visibility is measured and reported as the category evolves.
 - [Frase — Answer Engine Optimization: Complete Guide](https://www.frase.io/blog/what-is-answer-engine-optimization-the-complete-guide-to-getting-cited-by-ai) — Lays out concrete AI-visibility metrics (citation count, share of voice, referral traffic, appearance rate) and how to track each with free tools.
 - [CXL — Answer Engine Optimization guide](https://cxl.com/blog/answer-engine-optimization-aeo-the-comprehensive-guide/) — Covers measurement alongside optimization tactics.
