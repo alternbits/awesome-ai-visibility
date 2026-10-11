@@ -64,6 +64,7 @@ This is the core commercial category — dashboards that run prompts against mul
 
 - [Profound](https://www.tryprofound.com/) — Enterprise-focused AI-visibility analytics with detailed publisher-partnership research.
 - [Scrunch](https://scrunch.com/) — Monitoring, auditing, and content-delivery in one platform.
+- [Serpel](https://serpel.app/) — SEO infrastructure combining rankings, site audits, keyword research, and AI visibility workflows.
 - [Otterly.AI](https://otterly.ai/) — Straightforward visibility tracking aimed at small and mid-size teams.
 - [Peec AI](https://peec.ai/) — European-market AI-visibility monitoring platform.
 - [AthenaHQ](https://www.athenahq.ai/) — Large-scale AI-response analysis with free visibility reports.
