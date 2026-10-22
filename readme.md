@@ -65,6 +65,7 @@ This is the core commercial category — dashboards that run prompts against mul
 - [Profound](https://www.tryprofound.com/) — Enterprise-focused AI-visibility analytics with detailed publisher-partnership research.
 - [Scrunch](https://scrunch.com/) — Monitoring, auditing, and content-delivery in one platform.
 - [Otterly.AI](https://otterly.ai/) — Straightforward visibility tracking aimed at small and mid-size teams.
+- [Mentra](https://mentra.fyi) — Free AI-search visibility checker for single-location local businesses (dentists, plumbers, HVAC), with a copy-paste LocalBusiness schema / llms.txt / FAQ fix pack and optional $49 audit. Made by Anthony Pan.
 - [Peec AI](https://peec.ai/) — European-market AI-visibility monitoring platform.
 - [AthenaHQ](https://www.athenahq.ai/) — Large-scale AI-response analysis with free visibility reports.
 - [AirOps](https://www.airops.com/) — Connects visibility data directly to content briefing and production.
