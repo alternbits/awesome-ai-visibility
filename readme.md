@@ -69,6 +69,7 @@ This is the core commercial category — dashboards that run prompts against mul
 - [AthenaHQ](https://www.athenahq.ai/) — Large-scale AI-response analysis with free visibility reports.
 - [AirOps](https://www.airops.com/) — Connects visibility data directly to content briefing and production.
 - [Brandi AI](https://mybrandi.ai/) — Combines AI-visibility intelligence with competitive benchmarking and sentiment analysis, aimed at marketing and PR teams.
+- [PageLens Analytics](https://pagelens.io/) — Measures AI visibility from the website side: AI crawler reads per page, live answer fetches by ChatGPT, Claude and Perplexity, and the visits and revenue they send, next to cookieless web analytics.
 - [Highwire AI Index](https://www.teamhighwire.com/insights/highwire-launches-ai-index-to-measure-brand-presence-in-generative-ai-platforms) — A communications-first visibility index built for corporate-reputation and comms teams rather than pure SEO/content teams.
 - [Conductor](https://www.conductor.com/) / [Nightwatch](https://nightwatch.io/) / [SE Ranking](https://seranking.com/) — Established SEO platforms that have added AI-citation tracking modules.
 
