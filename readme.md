@@ -41,6 +41,7 @@ Whatever the label, the underlying question is the same: when a real buyer asks 
 - **Source Composition of AI Answers** *(Rankfor.AI, 2026)* — Large-scale analysis of citation patterns across 167,000+ AI-generated citations, breaking down which sources generative engines draw on and how consistently.
 - [**AgentGEO — Diagnosing and Repairing Citation Failures**](https://arxiv.org/abs/2603.09296) — Introduces a taxonomy of citation-failure modes, useful as a diagnostic framework for interpreting *why* a visibility report shows what it shows, not just what it shows.
 - [**Awesome-GEO** by DavidHuji](https://github.com/DavidHuji/Awesome-GEO) — A deeper, research-paper-focused companion list if you want the academic grounding behind these metrics.
+- [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) — Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
 
 ## Official Platform Documentation
 
