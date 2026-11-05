@@ -74,6 +74,7 @@ This is the core commercial category — dashboards that run prompts against mul
 
 ### Open-Source Tools
 
+- [**ai-visibility-scan**](https://github.com/foxscar-git-hub/ai-visibility-scan) — Open-source CLI/library (npm) that checks whether a site is reachable and parseable by AI crawlers: robots.txt blocks against GPTBot/ClaudeBot/PerplexityBot/Google-Extended/CCBot/Bytespider, `llms.txt` presence (with a starter file generator), server-rendered vs. JS-only content, and JSON-LD structured data — scored 0–100 with a breakdown. Powers the free [AI Visibility Checker](https://ai-visibility-checker-ashy.vercel.app/) web tool.
 - [**Elmo**](https://github.com/elmohq/elmo) — Self-hosted, MIT-licensed AI-visibility tracker. Runs prompts against ChatGPT, Claude, Perplexity, Gemini, Copilot, and Google AI Overviews via your own API keys, so your prompt history and results stay on your own infrastructure — a transparent, auditable alternative to closed dashboards.
 - [**geo-aeo-tracker**](https://github.com/danishashko/geo-aeo-tracker) — Local-first, Next.js-based AI-visibility dashboard tracking six AI models via scraping APIs, with a built-in site-audit crawler.
 - [**AI Visibility topic page on GitHub**](https://github.com/topics/ai-visibility) — Browse the `ai-visibility` topic directly for the newest self-hosted trackers and citation-testing CLIs — this is a young, fast-moving corner of open source.
