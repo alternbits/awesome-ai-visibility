@@ -71,6 +71,7 @@ This is the core commercial category — dashboards that run prompts against mul
 - [Brandi AI](https://mybrandi.ai/) — Combines AI-visibility intelligence with competitive benchmarking and sentiment analysis, aimed at marketing and PR teams.
 - [Highwire AI Index](https://www.teamhighwire.com/insights/highwire-launches-ai-index-to-measure-brand-presence-in-generative-ai-platforms) — A communications-first visibility index built for corporate-reputation and comms teams rather than pure SEO/content teams.
 - [Conductor](https://www.conductor.com/) / [Nightwatch](https://nightwatch.io/) / [SE Ranking](https://seranking.com/) — Established SEO platforms that have added AI-citation tracking modules.
+- [Pineprompt](https://pineprompt.com/) — Daily prompt tracking across ChatGPT, Gemini, Claude, Google AI Overviews and AI Mode, reporting mentions, position, sentiment, cited sources and share of voice, with an MCP server.
 
 ### Open-Source Tools
 
