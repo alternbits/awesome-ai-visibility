@@ -70,6 +70,7 @@ This is the core commercial category — dashboards that run prompts against mul
 - [AirOps](https://www.airops.com/) — Connects visibility data directly to content briefing and production.
 - [Brandi AI](https://mybrandi.ai/) — Combines AI-visibility intelligence with competitive benchmarking and sentiment analysis, aimed at marketing and PR teams.
 - [Highwire AI Index](https://www.teamhighwire.com/insights/highwire-launches-ai-index-to-measure-brand-presence-in-generative-ai-platforms) — A communications-first visibility index built for corporate-reputation and comms teams rather than pure SEO/content teams.
+- [zaDojo](https://zadojo.com/) - MCP server and web app that tracks brand mentions and citations across ChatGPT, Gemini, Perplexity and Google AI Overviews alongside free Search Console and Google Analytics data.
 - [Conductor](https://www.conductor.com/) / [Nightwatch](https://nightwatch.io/) / [SE Ranking](https://seranking.com/) — Established SEO platforms that have added AI-citation tracking modules.
 
 ### Open-Source Tools
