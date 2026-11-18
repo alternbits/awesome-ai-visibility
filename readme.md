@@ -62,6 +62,10 @@ Whatever the label, the underlying question is the same: when a real buyer asks 
 
 This is the core commercial category — dashboards that run prompts against multiple AI engines, then report on brand mentions, citation frequency, competitive share, and sentiment. Evaluate on: engine coverage, how the score is calculated (and whether that's disclosed), and whether it connects to an actual content or PR workflow rather than just reporting a number.
 
+- [AgentSEO](https://www.agentseo.dev/) — SEO and AEO data API with a hosted MCP server for Google SERP research, keyword and competitor analysis, rank tracking, and AI-search visibility; 100 one-time credits, paid plans from $9/month.
+
+
+
 - [Profound](https://www.tryprofound.com/) — Enterprise-focused AI-visibility analytics with detailed publisher-partnership research.
 - [Scrunch](https://scrunch.com/) — Monitoring, auditing, and content-delivery in one platform.
 - [Otterly.AI](https://otterly.ai/) — Straightforward visibility tracking aimed at small and mid-size teams.
@@ -71,6 +75,10 @@ This is the core commercial category — dashboards that run prompts against mul
 - [Brandi AI](https://mybrandi.ai/) — Combines AI-visibility intelligence with competitive benchmarking and sentiment analysis, aimed at marketing and PR teams.
 - [Highwire AI Index](https://www.teamhighwire.com/insights/highwire-launches-ai-index-to-measure-brand-presence-in-generative-ai-platforms) — A communications-first visibility index built for corporate-reputation and comms teams rather than pure SEO/content teams.
 - [Conductor](https://www.conductor.com/) / [Nightwatch](https://nightwatch.io/) / [SE Ranking](https://seranking.com/) — Established SEO platforms that have added AI-citation tracking modules.
+
+
+
+
 
 ### Open-Source Tools
 
