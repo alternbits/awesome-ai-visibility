@@ -76,6 +76,7 @@ This is the core commercial category — dashboards that run prompts against mul
 
 - [**Elmo**](https://github.com/elmohq/elmo) — Self-hosted, MIT-licensed AI-visibility tracker. Runs prompts against ChatGPT, Claude, Perplexity, Gemini, Copilot, and Google AI Overviews via your own API keys, so your prompt history and results stay on your own infrastructure — a transparent, auditable alternative to closed dashboards.
 - [**geo-aeo-tracker**](https://github.com/danishashko/geo-aeo-tracker) — Local-first, Next.js-based AI-visibility dashboard tracking six AI models via scraping APIs, with a built-in site-audit crawler.
+- [**OpenAEO**](https://github.com/XenetDev/openaeo) — MIT-licensed app that runs on your own computer, asks Claude, ChatGPT, Gemini, Grok and Perplexity your tracked questions through your own subscription or API keys, and reports mentions, cited sites and a site audit.
 - [**AI Visibility topic page on GitHub**](https://github.com/topics/ai-visibility) — Browse the `ai-visibility` topic directly for the newest self-hosted trackers and citation-testing CLIs — this is a young, fast-moving corner of open source.
 
 ## Measurement Methodology
